@@ -1,10 +1,15 @@
-### Hi there 👋 my name is Adrián
+# Hi there 👋 my name is Adrián
 
-I’m Web developer but ...
+I’m **iOS Developer**/**Web developer**
 
-- 🔭 I’m currently working on Apps , you can check my iOS, Web proyects here 😄 ⚡
-- 🌱 I’m currently learning iOS Developer, UIKIT & SWIFTUI to GET A JOB 📫 ⚡
-- I Love Swift ⚡
+- 🔭 I’m currently working on navite Apps , you can check my iOS Projects, also some web projects 😄 ⚡
+- 🌱 I’m currently learning **iOS Developer**, UIKIT & SWIFTUI to GET A JOB 📫 ⚡
+- I´m coding swift every day ⚡
+
+# Projects
+### Coffe Shop ☕️
+### Random Workout 🏋️‍♂️
+### Rick & Morty Characters 🤖
 
 <!--
 **duilan/duilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
