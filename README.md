@@ -8,8 +8,11 @@ I’m **iOS Developer**/**Web developer**
 
 # Projects
 ### Coffe Shop ☕️
-### Random Workout 🏋️‍♂️
-### Rick & Morty Characters 🤖
+[Link](https://github.com/duilan/CoffeShop-iOS)
+### Random Workout 🏋️‍♂️ 
+[Link](https://github.com/duilan/Random-Workout-iOS)
+### Rick & Morty Characters 🤖 
+[Link](https://github.com/duilan/RickAndMorty-iOS)
 
 <!--
 **duilan/duilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
