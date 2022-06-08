@@ -13,8 +13,9 @@ https://user-images.githubusercontent.com/4230964/140678761-d2382a2f-553f-4286-9
 
 ### Random Workout 🏋️‍♂️ 
 [Link](https://github.com/duilan/Random-Workout-iOS)
-### Rick & Morty Characters 🤖 
-[Link](https://github.com/duilan/RickAndMorty-iOS)
+### Rick & Morty Characters 🤖 [↓](https://github.com/duilan/RickAndMorty-iOS)
+https://user-images.githubusercontent.com/4230964/172535362-d8a1976f-1181-4696-811b-d19aa13baf65.mp4
+
 
 <!--
 **duilan/duilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
