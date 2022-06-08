@@ -7,8 +7,10 @@ I’m **iOS Developer**/**Web developer**
 - I´m coding swift every day ⚡
 
 # Projects
-### Coffe Shop ☕️
-[Link](https://github.com/duilan/CoffeShop-iOS)
+### Coffe Shop ☕️ [↓](https://github.com/duilan/CoffeShop-iOS)
+
+https://user-images.githubusercontent.com/4230964/140678761-d2382a2f-553f-4286-9710-fe49bea1d363.mp4
+
 ### Random Workout 🏋️‍♂️ 
 [Link](https://github.com/duilan/Random-Workout-iOS)
 ### Rick & Morty Characters 🤖 
