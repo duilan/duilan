@@ -8,11 +8,12 @@ I’m **iOS Developer**/**Web developer**
 
 # Projects
 ### Coffe Shop ☕️ [↓](https://github.com/duilan/CoffeShop-iOS)
-
 https://user-images.githubusercontent.com/4230964/140678761-d2382a2f-553f-4286-9710-fe49bea1d363.mp4
 
-### Random Workout 🏋️‍♂️ 
-[Link](https://github.com/duilan/Random-Workout-iOS)
+### Random Workout 🏋️‍♂️ [↓](https://github.com/duilan/Random-Workout-iOS)
+https://user-images.githubusercontent.com/4230964/172973303-7850fa92-0ed8-4c49-b4da-9037e499c50a.mp4
+
+
 ### Rick & Morty Characters 🤖 [↓](https://github.com/duilan/RickAndMorty-iOS)
 https://user-images.githubusercontent.com/4230964/172535362-d8a1976f-1181-4696-811b-d19aa13baf65.mp4
 
