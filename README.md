@@ -1,10 +1,10 @@
-# Hi there 👋 my name is Adrián
+# Hi there 👋 
 
-I’m **iOS Developer**/**Web developer**
+My name is Adrián, **iOS Developer**/**Web developer**
 
 - 🔭 I’m currently working on navite Apps , you can check my iOS Projects, also some web projects 😄 ⚡
-- 🌱 I’m currently learning **iOS Developer**, UIKIT & SWIFTUI to GET A JOB 📫 ⚡
-- I´m coding swift every day ⚡
+- 🌱 I’m currently learning **iOS Developer**, UIKIT & SWIFTUI⚡
+
 
 # Projects
 ### Coffe Shop ☕️ [↓](https://github.com/duilan/CoffeShop-iOS)
